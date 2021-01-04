@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hfzJgO9+80s3DMrlzXRAoenGk9t3Ibe5gqHthhlTEThGKUyEnR6guPlUDDAPJ+hvP5NfWgllG6zaDvzjii4jxQ==",
+  "dgSpecHash": "vlvuugD/b/dlclgKmaENstUlkYP4QMYqtH0LWyuhunOwsg3581zUAitOARdi/FJMih8flbnxQFqN1EpvwEG5iA==",
   "success": true,
-  "projectFilePath": "D:\\Modelo para Estudo\\Formação Backend Developer .NET\\BaltaIO\\3-1975-Modelando Domínios Ricos\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+  "projectFilePath": "C:\\dev\\netcore\\ModelandoDom-niosRicos\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marce\\.nuget\\packages\\flunt\\1.0.2\\flunt.1.0.2.nupkg.sha512",
     "C:\\Users\\marce\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

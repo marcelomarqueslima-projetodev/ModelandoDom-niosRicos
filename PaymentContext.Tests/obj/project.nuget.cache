@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oIEGgnuPvS85I+av0CkdIQBhEefu4iKU2wgQ4NRARXTQo5Gf7J6c89vJvhGyjo/X7e47Jm48euLOZpptWCUbew==",
+  "dgSpecHash": "QreK/38wohA2YtXxQMrb8R6Ol9tZ724VKB3RI+NVhglJRB6G64qkMhC1CnQMz0OG3hFoOap1RleuFZB7NSeNMQ==",
   "success": true,
-  "projectFilePath": "D:\\Modelo para Estudo\\Formação Backend Developer .NET\\BaltaIO\\3-1975-Modelando Domínios Ricos\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+  "projectFilePath": "C:\\dev\\netcore\\ModelandoDom-niosRicos\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marce\\.nuget\\packages\\flunt\\1.0.2\\flunt.1.0.2.nupkg.sha512",
     "C:\\Users\\marce\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
